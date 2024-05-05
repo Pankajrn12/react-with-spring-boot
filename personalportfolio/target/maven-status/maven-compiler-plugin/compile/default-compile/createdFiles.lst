@@ -1,0 +1,16 @@
+com\persnalportfolio\personalportfolio\repositories\AdminRepository.class
+com\persnalportfolio\personalportfolio\models\ContactUsModels.class
+com\persnalportfolio\personalportfolio\repositories\ContactUsRepository.class
+com\persnalportfolio\personalportfolio\controllers\ContactUsController.class
+com\persnalportfolio\personalportfolio\models\RegistrationModel.class
+com\persnalportfolio\personalportfolio\entities\CareerForms.class
+com\persnalportfolio\personalportfolio\PersonalportfolioApplication.class
+com\persnalportfolio\personalportfolio\models\CareerFormsModels.class
+com\persnalportfolio\personalportfolio\services\ContactUsService.class
+com\persnalportfolio\personalportfolio\models\AdminModel.class
+com\persnalportfolio\personalportfolio\repositories\RegistrationRepository.class
+com\persnalportfolio\personalportfolio\config\CorsConfig.class
+com\persnalportfolio\personalportfolio\repositories\CareerRepository.class
+com\persnalportfolio\personalportfolio\entities\Admin.class
+com\persnalportfolio\personalportfolio\entities\Registration.class
+com\persnalportfolio\personalportfolio\entities\ContactUs.class
